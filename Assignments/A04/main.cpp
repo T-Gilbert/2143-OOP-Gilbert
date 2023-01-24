@@ -1,7 +1,25 @@
+*  Author:           Trevor Gilbert
+*  Email:            gilbert.t16@gmail.com
+*  Label:            A04
+*  Title:            Linked List Class
+*  Course:           CMPS 2143
+*  Semester:         Spring 2023
+* 
+*  Description:
+*        This program 
+*        
+*  Usage: 
+*       - $ ./main filename
+*       - This will read in a file containing whatever values to be read into our list/array. 
+*       
+*  Files:            
+*       main.cpp    : driver program 
+*       list.h      : header file with list defintion
+*       list.cpp    : list implementation
+
 #include <iostream>
 
 using namespace std;
-
 
 class CircularArrayQue {
 private:
