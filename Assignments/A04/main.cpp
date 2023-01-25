@@ -6,7 +6,7 @@
 *  Semester:         Spring 2023
 * 
 *  Description:
-*        This program 
+*        This program demonstrates a circular array queue
 *        
 *  Usage: 
 *       - $ ./main filename
