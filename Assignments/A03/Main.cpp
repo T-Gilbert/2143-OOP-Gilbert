@@ -1,5 +1,4 @@
 /*********************************************************************************************
-*
 *  Author:           Trevor Gilbert
 *  Email:            gilbert.t16@gmail.com
 *  Label:            A03
@@ -39,7 +38,6 @@ using namespace std;
 *      - with return types
 * 
 * Usage: 
-* 
 *      - examples of how
 *      - to use your class 
 *      
@@ -90,6 +88,22 @@ public:
     friend ostream &operator<<(ostream &os, const CircularArrayQue &other);
 };
 
+/*********************************************************************************************
+* Public/Private/Protected : function_name
+* 
+* Description:
+*      Describe the functions purpose
+* 
+* Params:
+*      - list params
+*      - one per line
+*      - with return type
+*      - and one line description
+* 
+* Returns:
+*      - what does this function return (including the type)?
+*********************************************************************************************/
+
 ostream &operator<<(ostream &os, const CircularArrayQue &other) {
 
     for (int i = other.Front; i < other.CurrentSize; i = (i + 1) % other.QueSize) {
@@ -103,7 +117,6 @@ ostream &operator<<(ostream &os, const CircularArrayQue &other) {
 * Main Driver
 * 
 * For this program, the main driver was used to test the CircularArrayQue class
-* 
 *********************************************************************************************/
 
 int main() {
