@@ -1,3 +1,5 @@
+/*********************************************************************************************
+*
 *  Author:           Trevor Gilbert
 *  Email:            gilbert.t16@gmail.com
 *  Label:            A03
@@ -15,6 +17,7 @@
 *       main.cpp    : driver program 
 *       list.h      : header file with list defintion
 *       list.cpp    : list implementation
+*********************************************************************************************/
 
 #include <iostream>
 
@@ -74,12 +77,13 @@ ostream &operator<<(ostream &os, const CircularArrayQue &other) {
     return os;
 }
 
-/**
- * Main Driver
- * 
- * For this program, the main driver was used to test the CircularArrayQue class
- * 
- */
+/*********************************************************************************************
+* Main Driver
+* 
+* For this program, the main driver was used to test the CircularArrayQue class
+* 
+*********************************************************************************************/
+
 int main() {
     CircularArrayQue C1(5);
 
