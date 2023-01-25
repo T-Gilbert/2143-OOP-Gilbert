@@ -1,15 +1,14 @@
 *  Author:           Trevor Gilbert
 *  Email:            gilbert.t16@gmail.com
-*  Label:            A04
-*  Title:            Linked List Class
+*  Label:            A03
+*  Title:            Circular Array Queue
 *  Course:           CMPS 2143
 *  Semester:         Spring 2023
 * 
 *  Description:
-*        This program demonstrates a circular array queue
+*        This program demonstrates a circular array queue 
 *        
 *  Usage: 
-*       - $ ./main filename
 *       - This will read in a file containing whatever values to be read into our list/array. 
 *       
 *  Files:            
