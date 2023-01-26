@@ -92,7 +92,7 @@ public:
 * Public/Private/Protected : function_name
 * 
 * Description:
-*      Describe the functions purpose
+*      Functions serve to keep integers in ascending order
 * 
 * Params:
 *      - void Push
@@ -100,7 +100,7 @@ public:
 *      - return temp
 * 
 * Returns:
-*      - Function returns 
+*      - Function returns array of numbers in the defined size, in table format
 *********************************************************************************************/
 
 ostream &operator<<(ostream &os, const CircularArrayQue &other) {
