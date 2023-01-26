@@ -2,12 +2,12 @@
 *  Author:           Trevor Gilbert
 *  Email:            gilbert.t16@gmail.com
 *  Label:            A03
-*  Title:            Circular Array Queue
+*  Title:            Commenting on a Circular Array Que
 *  Course:           CMPS 2143
 *  Semester:         Spring 2023
 * 
 *  Description:
-*        This program demonstrates a circular array queue 
+*        This program demonstrates a circular array que 
 *        
 *  Usage: 
 *       - This will read in a file containing whatever values to be read into our list/array. 
@@ -40,9 +40,7 @@ using namespace std;
 *      - Return Current/Que Size
 * 
 * Usage: 
-*      - examples of how
-*      - to use your class 
-*      
+*      - Enter numbers to be implemented to an array/list in int Main - CircularArrayyQue 
 *********************************************************************************************/
 
 class CircularArrayQue {
@@ -100,7 +98,6 @@ public:
 *      - void Push
 *      - int Pop
 *      - return temp
-*      - 
 * 
 * Returns:
 *      - Function returns 
