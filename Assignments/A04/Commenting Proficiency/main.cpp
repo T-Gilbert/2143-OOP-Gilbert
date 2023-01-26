@@ -2,12 +2,12 @@
 *  Author:           Trevor Gilbert
 *  Email:            gilbert.t16@gmail.com
 *  Label:            A03
-*  Title:            Circular Array Queue
+*  Title:            Commenting on a Circular Array Que
 *  Course:           CMPS 2143
 *  Semester:         Spring 2023
 * 
 *  Description:
-*        This program demonstrates a circular array queue 
+*        This program demonstrates a circular array que 
 *        
 *  Usage: 
 *       - This will read in a file containing whatever values to be read into our list/array. 
@@ -23,24 +23,24 @@
 using namespace std;
 
 /*********************************************************************************************
-* Class Name
+* CircularArrayQue
 * 
 * Description:
-*      Description of your class and what it does
+*      Establishes size & conditions of a Circular loop operation 
 * 
 * Public Methods:
-*      - A list of 
-*      - each public method *      - with return types
+*      - CircularArrayQueue with container size (new/initial) 
+*      - if/else statements     
+*      - return temp/cout
 * 
 * Private Methods:
-*      - A list of 
-*      - each private method
-*      - with return types
+*      - int *Container, Front, Rear, QueSize, CurrentSize 
+*      - void init
+*      - bool Full
+*      - Return Current/Que Size
 * 
 * Usage: 
-*      - examples of how
-*      - to use your class 
-*      
+*      - Enter numbers to be implemented to an array/list in int Main - CircularArrayyQue 
 *********************************************************************************************/
 
 class CircularArrayQue {
@@ -92,16 +92,15 @@ public:
 * Public/Private/Protected : function_name
 * 
 * Description:
-*      Describe the functions purpose
+*      Functions serve to keep integers in ascending order
 * 
 * Params:
-*      - list params
-*      - one per line
-*      - with return type
-*      - and one line description
+*      - void Push
+*      - int Pop
+*      - return temp
 * 
 * Returns:
-*      - what does this function return (including the type)?
+*      - Function returns array of numbers in the defined size, in table format
 *********************************************************************************************/
 
 ostream &operator<<(ostream &os, const CircularArrayQue &other) {
