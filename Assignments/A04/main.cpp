@@ -1,25 +1,47 @@
+/*********************************************************************************************
 *  Author:           Trevor Gilbert
 *  Email:            gilbert.t16@gmail.com
-*  Label:            A04
-*  Title:            Linked List Class
+*  Label:            A03
+*  Title:            Circular Array Queue
 *  Course:           CMPS 2143
 *  Semester:         Spring 2023
 * 
 *  Description:
-*        This program demonstrates a circular array queue
+*        This program demonstrates a circular array queue 
 *        
 *  Usage: 
-*       - $ ./main filename
 *       - This will read in a file containing whatever values to be read into our list/array. 
 *       
 *  Files:            
 *       main.cpp    : driver program 
 *       list.h      : header file with list defintion
 *       list.cpp    : list implementation
+*********************************************************************************************/
 
 #include <iostream>
 
 using namespace std;
+
+/*********************************************************************************************
+* Class Name
+* 
+* Description:
+*      Description of your class and what it does
+* 
+* Public Methods:
+*      - A list of 
+*      - each public method *      - with return types
+* 
+* Private Methods:
+*      - A list of 
+*      - each private method
+*      - with return types
+* 
+* Usage: 
+*      - examples of how
+*      - to use your class 
+*      
+*********************************************************************************************/
 
 class CircularArrayQue {
 private:
@@ -66,6 +88,22 @@ public:
     friend ostream &operator<<(ostream &os, const CircularArrayQue &other);
 };
 
+/*********************************************************************************************
+* Public/Private/Protected : function_name
+* 
+* Description:
+*      Describe the functions purpose
+* 
+* Params:
+*      - list params
+*      - one per line
+*      - with return type
+*      - and one line description
+* 
+* Returns:
+*      - what does this function return (including the type)?
+*********************************************************************************************/
+
 ostream &operator<<(ostream &os, const CircularArrayQue &other) {
 
     for (int i = other.Front; i < other.CurrentSize; i = (i + 1) % other.QueSize) {
@@ -75,12 +113,12 @@ ostream &operator<<(ostream &os, const CircularArrayQue &other) {
     return os;
 }
 
-/**
- * Main Driver
- * 
- * For this program, the main driver was used to test the CircularArrayQue class
- * 
- */
+/*********************************************************************************************
+* Main Driver
+* 
+* For this program, the main driver was used to test the CircularArrayQue class
+*********************************************************************************************/
+
 int main() {
     CircularArrayQue C1(5);
 
