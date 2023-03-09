@@ -1,0 +1,20 @@
+Trevor Gilbert
+9 Mar 2023
+Spring 2143
+
+digraph GilbertList {
+  rankdir=LR;
+  node [shape=record,color=blue];
+  1 [label="{ <data> 1 | <next>  }"]
+  2 [label="{ <data> 2 | <next>  }"];
+  3 [label="{ <data> 3 | <next>  }"];
+  4 [label="{ <data> 4 | <next>  }"];
+  5 [label="{ <data> 5 | <next>  }"];
+  Chutes_and_Ladders_Gilbert [shape=octagon,color=red];
+  1:next:3 -> 2:data [arrowhead=diamond, arrowtail=dot, color=orange, dir=both, tailclip=false];
+  2:next:3 -> 3:data [arrowhead=inv, arrowtail=crow, color=green, dir=both, tailclip=true];
+  3:next:3 -> 4:data [arrowhead=normal, arrowtail=curve, color=yellow, dir=both, tailclip=false];
+  4:next:3 -> 5:data [arrowhead=curve, arrowtail=icurve, color=red, dir=both, tailclip=true];
+  5:next:3 -> 2:data [arrowhead=vee, arrowtail=box, color=black, dir=both, tailclip=false];
+  5:next:3 -> 1:data [arrowhead=vee, arrowtail=box, color=black, dir=both, tailclip=false];
+}
