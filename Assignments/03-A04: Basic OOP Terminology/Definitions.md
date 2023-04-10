@@ -50,11 +50,9 @@
 
 #### Encapsulation
 
-> Text
+> The bundling of data and methods that operate on that data within a single unit
 
 - Makes testing systems more efficient & easier
-
-- 
 
 #### Friends
 
@@ -64,7 +62,7 @@
 
 > Text
 
-- Weakens encapsulation, so may not be appropriate for applications when higher protection is required
+- Weakens encapsulation, so may not be appropriate for applications where higher protection is required
 
 #### Instance Variable
 
