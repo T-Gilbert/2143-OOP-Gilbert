@@ -42,13 +42,17 @@
 
 #### Constructor
 
-> Text
+> A special method of a class or structure that initializes a newly created object of that type
+
+- Whenever an object is created, the constructor is called automatically
+
+- Although it resembles it, a constructor is not a proper method since it doesn’t have a return type
 
 #### Encapsulation
 
 > Text
 
-- Makes testing systems more efficient / easier
+- Makes testing systems more efficient & easier
 
 - 
 
