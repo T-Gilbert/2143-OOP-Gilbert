@@ -9,8 +9,11 @@
 #### Abstraction
 
 > The process of hiding the internal details of an application from the outer world
-- There are two types: Data & Process
-- Data Abstraction - The
+
+- There are two types of abstraction: Data & Process
+
+- Data Abstraction - When the object data is not visible to the outer world, it creates data abstraction. If needed, access to the Objects’ data is provided through some methods.
+
 - Process Abstration - The
 
 #### Attributes / Properties
