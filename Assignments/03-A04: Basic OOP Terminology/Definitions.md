@@ -12,17 +12,17 @@
 
 - There are two types of abstraction: Data & Process
 
-- Data Abstraction - When the object data is not visible to the outer world, it creates data abstraction. If needed, access to the Objects’ data is provided through some methods.
+- Data Abstraction - When the object data is not visible to the outer world, it creates data abstraction. If needed, access to the Objects’ data is provided through various different methods
 
-- Process Abstration - The
+- Process Abstration - When we don’t need to provide details about all the functions of an object, and we hide the internal implementation of the different functions involved in a user operation, it creates process abstraction
 
 #### Attributes / Properties
 
-> Text
+> An attribute denotes a part of an aggregate object, and so is used during analysis as well as design to express a singular property of the class 
 
 #### Class
 
-> Text
+> A user-defined data types that act as the blueprint for individual objects, attributes and methods
 
 #### Class Variable
 
