@@ -8,7 +8,10 @@
 
 #### Abstraction
 
-> Text
+> The process of hiding the internal details of an application from the outer world
+> There are two types: Data & Process
+> Data Abstraction - The
+> Process Abstration - The
 
 #### Attributes / Properties
 
