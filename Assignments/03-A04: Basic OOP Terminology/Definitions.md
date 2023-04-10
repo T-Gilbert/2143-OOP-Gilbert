@@ -26,11 +26,19 @@
 
 #### Class Variable
 
-> Text
+> An attribute defined in a class of which a single copy exists, regardless of how many instances of the class exist. All instances of that class share its value as well as its declaration.
 
 #### Composition
 
-> Text
+> A concept in OOP that models the relationship between two classes. It involves using other classes to build more complex classes, and there is no parent/child relationship.
+
+- Represents a "has-a" relationship
+
+- There are two types of composition: Association and Aggregation.
+
+- Association - You usually see the parts that build the whole object
+
+- Aggregation - Typically, you only see the object as a whole
 
 #### Constructor
 
@@ -40,6 +48,10 @@
 
 > Text
 
+- Makes testing systems more efficient / easier
+
+- 
+
 #### Friends
 
 > Text
@@ -47,6 +59,8 @@
 #### Inheritance
 
 > Text
+
+- Weakens encapsulation, so may not be appropriate for applications when higher protection is required
 
 #### Instance Variable
 
