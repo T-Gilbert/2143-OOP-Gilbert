@@ -56,11 +56,13 @@
 
 #### Friends
 
-> Text
+> A function that is given the same access as methods to private and protected data
+
+- Declared by the class that is granting access, so friend functions are part of the class interface (like methods)
 
 #### Inheritance
 
-> Text
+> A mechanism in which you can derive a class from another class, creating a hierarchy of classes that share a set of attributes and methods
 
 - Weakens encapsulation, so may not be appropriate for applications where higher protection is required
 
