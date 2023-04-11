@@ -68,7 +68,7 @@
 
 #### Instance Variable
 
-> Text
+> A variable defined in a class, for which each instantiated object of the class has a separate copy or instance. (i.e., a member variable)
 
 #### Member Variable
 
