@@ -120,6 +120,6 @@ if __name__ == '__main__':
 # The test of the max roll and avg roll 
   
     dice4 = Dice(3, 6)
-    print(dice4.max_roll())  # should print 18 (3 * 6)
-    print(dice4.avg_roll())  # should print 4 (average of 3 and 3 and 3)
+    print(dice4.max_roll())  
+    print(dice4.avg_roll())  
     
