@@ -12,9 +12,8 @@
 #
 #  Files:
 #       main.py           : Driver program
-#       Dice.py           :
-#       dice_tester.py    :
-#       GilbertList.dot   : Output file (which pastes in Graphviz)
+#       Dice.py           : Implements die/dice function into classes
+#       dice_tester.py    : Tests implementation of die rolls
 ##############################################################################
 
 import random
