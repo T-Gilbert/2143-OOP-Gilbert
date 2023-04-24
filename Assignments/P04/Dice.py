@@ -118,6 +118,8 @@ if __name__ == '__main__':
     print(dice3.roll())  
     
 # The test of the max roll and avg roll 
+# Print number 18 (3x6) 
+# Print the number 4 (the average of 3, 3, and 3)
   
     dice4 = Dice(3, 6)
     print(dice4.max_roll())  
