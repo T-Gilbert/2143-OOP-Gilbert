@@ -103,15 +103,29 @@
 
 #### Overloading 
 
-> 
+> When TWO or more functions have the same name, however, they contain different parameters
+
+- Better known as 'function overloading.'
+
+- Done by either using different types of arguments, or a different number of arguments
 
 #### Polymorphism 
 
-> Text
+> A feature of object-oriented programming which allows a specific routine to utilize variable of different types, but at different times
 
-#### Public / Private / Protected 
+#### Public / Private / Protected - "Access Modifiers"
 
-> Text
+> Public: In which the method or property can be accessed from everywhere in the code/program
+
+- This is the default access modifier in C++, also the least secure
+
+> Protected: Wherein the method or property can be accessed within the class, and by classes that are derived from that class
+
+- Increasingly secure in applications requiring that asset 
+
+> Private: With this, the method or property can ONLY be accessed within the class
+
+- Most secure, when applications require it
 
 #### Static 
 
