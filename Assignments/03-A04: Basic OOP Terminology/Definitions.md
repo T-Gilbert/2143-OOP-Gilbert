@@ -138,10 +138,3 @@
 > A 'virtual' function is a method or function used to override the behavior of the function in an inherited class
 
 - Virtual methods facilitate the consistent functionality of a related object set
-
-#### EXAMPLE Object
-> This is your object definition....
-
-#### EXAMPLE Method
-> This is your method definition.....
-
