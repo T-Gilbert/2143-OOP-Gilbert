@@ -72,15 +72,21 @@
 
 #### Member Variable
 
-> Text
+> A variable in a method or block of code that is linked to a specific object, becoming accessible for all of that objects methods
+
+- May also be reffered to as a member field
 
 #### Method
 
-> Text
+> A programmed procedure associated with a message and a spefified object
+
+- Part of a class, available to any object instantiated from that class
 
 #### Multiple Inheritance
 
-> Text
+> Simply means that a subclass can inherit from TWO or more superclasses
+
+- Example: Two superclasses, one is a Lion, the other is a Tiger. Through multiple inheritance, they produce the Liger 
 
 #### EXAMPLE Class
 
@@ -91,11 +97,13 @@
 
 #### Object 
 
-> Text
+> An instance of a class, created with specifically difined data. 
+
+- A 'class' will create a template for objects. In fact, many objects can be created from the same class type
 
 #### Overloading 
 
-> Text
+> 
 
 #### Polymorphism 
 
