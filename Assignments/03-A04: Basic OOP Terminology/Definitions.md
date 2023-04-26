@@ -129,11 +129,15 @@
 
 #### Static 
 
-> Text
+> When a method or variable is declared 'static,' it belongs to the class, rather than a specific instance
+
+- Only ONE instance of a static member exists, even if you create multiple objects of the class, or if you don't create any
 
 #### Virtual
 
-> Text
+> A 'virtual' function is a method or function used to override the behavior of the function in an inherited class
+
+- Virtual methods facilitate the consistent functionality of a related object set
 
 #### EXAMPLE Object
 > This is your object definition....
