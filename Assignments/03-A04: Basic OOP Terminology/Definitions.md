@@ -22,8 +22,7 @@
 
 > An attribute denotes a part of an aggregate object, and so is used during analysis as well as design to express a singular property of the class 
 >
-><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/300px-CPT-OOP-objects_and_classes_-_attmeth.svg.png![image](https://user-images.githubusercontent.com/122938102/235309653-04c01e89-a818-438b-add1-eccef5ce100d.png)
-" width=300>
+><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CPT-OOP-objects_and_classes_-_attmeth.svg/300px-CPT-OOP-objects_and_classes_-_attmeth.svg.png" width=300>
 
 #### Class
 
