@@ -16,7 +16,7 @@
 
 - Process Abstration - When we don’t need to provide details about all the functions of an object, and we hide the internal implementation of the different functions involved in a user operation, it creates process abstraction
 >
-><img src="https://journaldev.nyc3.digitaloceanspaces.com/2019/09/data-abstraction.png" >
+><img src="https://journaldev.nyc3.digitaloceanspaces.com/2019/09/data-abstraction.png" width=400>
 
 #### Attributes / Properties
 
