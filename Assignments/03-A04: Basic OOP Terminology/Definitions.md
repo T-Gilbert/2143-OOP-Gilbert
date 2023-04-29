@@ -96,7 +96,7 @@
 
 - May also be reffered to as a member field
 >
-><img src="https://1.bp.blogspot.com/-b-snzBFnoHs/Vu6rs2fUoqI/AAAAAAAAAXQ/CPUenSOSJKsZTxWqwWwn0v-DZde8f8GNQ/s1600/memberVariables.JPG" width=300>
+><img src="https://1.bp.blogspot.com/-b-snzBFnoHs/Vu6rs2fUoqI/AAAAAAAAAXQ/CPUenSOSJKsZTxWqwWwn0v-DZde8f8GNQ/s1600/memberVariables.JPG" width=400>
 
 #### Method
 
@@ -112,13 +112,7 @@
 
 - Example: Two superclasses, one is a Lion, the other is a Tiger. Through multiple inheritance, they produce the Liger 
 >
-><img src="" width=300>
-
-#### EXAMPLE Class
-
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
-><img src="" width=300>
+><img src="https://1.bp.blogspot.com/-k0wGmviy5X0/V_Y2ga7SMtI/AAAAAAAAATY/96X-LT9lpWkZE4WtjTzpIxDAfhU5I9DQgCEw/s1600/Multiple-Inheritance.png" width=300>
 
 #### Object 
 
@@ -126,7 +120,7 @@
 
 - A 'class' will create a template for objects. In fact, many objects can be created from the same class type
 >
-><img src="" width=300>
+><img src="https://miro.medium.com/v2/resize:fit:1400/1*CM0Jy_kA06FwPx0O432RxA.png" width=300>
 
 #### Overloading 
 
@@ -136,13 +130,13 @@
 
 - Done by either using different types of arguments, or a different number of arguments
 >
-><img src="" width=300>
+><img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/mov.png" width=300>
 
 #### Polymorphism 
 
 > A feature of object-oriented programming which allows a specific routine to utilize variable of different types, but at different times
 >
-><img src="" width=300>
+><img src="https://www.upgrad.com/blog/wp-content/uploads/2020/11/cpp-polymorphism.png" width=300>
 
 #### Public / Private / Protected - "Access Modifiers"
 
@@ -158,7 +152,7 @@
 
 - Most secure, when applications require it
 >
-><img src="" width=300>
+><img src="https://2558458775-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LSemf7mp1liQa7nfIAC%2F-LTHEM6kWTPDoO0A7Vxu%2F-LTHFx9RAqKA1Kc2l2cj%2FScreen%20Shot%202018-12-09%20at%202.49.19%20PM.png?alt=media&token=f6d4bbe5-7ad5-4029-8f36-bfbf53599694" width=500>
 
 #### Static 
 
@@ -166,7 +160,7 @@
 
 - Only ONE instance of a static member exists, even if you create multiple objects of the class, or if you don't create any
 >
-><img src="" width=300>
+><img src="https://www.codeash.com/wp-content/uploads/2021/03/20210305_163434-300x300.png" width=300>
 
 #### Virtual
 
@@ -174,4 +168,4 @@
 
 - Virtual methods facilitate the consistent functionality of a related object set
 >
-><img src="" width=300>
+><img src="https://i.ytimg.com/vi/BnKvXjUro-Q/hqdefault.jpg" width=300>
