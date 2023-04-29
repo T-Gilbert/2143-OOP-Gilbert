@@ -88,7 +88,7 @@
 
 > A variable defined in a class, for which each instantiated object of the class has a separate copy or instance. (i.e., a member variable)
 >
-><img src="" width=300>
+><img src="https://images.velog.io/images/jiselectric/post/325a4754-4aee-471e-8743-99d58f188417/6.15.png" width=300>
 
 #### Member Variable
 
@@ -96,7 +96,7 @@
 
 - May also be reffered to as a member field
 >
-><img src="" width=300>
+><img src="https://1.bp.blogspot.com/-b-snzBFnoHs/Vu6rs2fUoqI/AAAAAAAAAXQ/CPUenSOSJKsZTxWqwWwn0v-DZde8f8GNQ/s1600/memberVariables.JPG" width=300>
 
 #### Method
 
@@ -104,7 +104,7 @@
 
 - Part of a class, available to any object instantiated from that class
 >
-><img src="" width=300>
+><img src="https://raw.githubusercontent.com/andrejrs/Object-Oriented-PHP/master/images/object.gif" width=300>
 
 #### Multiple Inheritance
 
