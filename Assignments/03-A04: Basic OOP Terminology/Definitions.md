@@ -28,7 +28,7 @@
 
 > A user-defined data types that act as the blueprint for individual objects, attributes and methods
 >
-><img src="" width=300>
+><img src="https://www.freeonlinetest.in/tutorials/wp-content/uploads/2022/09/class_oops_in_php.jpg" width=300>
 
 #### Class Variable
 
