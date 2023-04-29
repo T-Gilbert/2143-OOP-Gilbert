@@ -28,13 +28,13 @@
 
 > A user-defined data types that act as the blueprint for individual objects, attributes and methods
 >
-><img src="https://www.freeonlinetest.in/tutorials/wp-content/uploads/2022/09/class_oops_in_php.jpg" width=300>
+><img src="https://www.freeonlinetest.in/tutorials/wp-content/uploads/2022/09/class_oops_in_php.jpg" width=400>
 
 #### Class Variable
 
 > An attribute defined in a class of which a single copy exists, regardless of how many instances of the class exist. All instances of that class share its value as well as its declaration.
 >
-><img src="" width=300>
+><img src="https://i.ytimg.com/vi/czw5TYk4H5U/maxresdefault.jpg" width=300>
 
 #### Composition
 
@@ -48,7 +48,7 @@
 
 - Aggregation - Typically, you only see the object as a whole
 >
-><img src="" width=300>
+><img src="https://files.realpython.com/media/Inheritance-vs-Composition-in-Python_Watermarked_1.aec726368a97.jpg" width=300>
 
 #### Constructor
 
@@ -58,7 +58,7 @@
 
 - Although it resembles it, a constructor is not a proper method since it doesn’t have a return type
 >
-><img src="" width=300>
+><img src="https://2.bp.blogspot.com/-t1ktWXQrC-o/WRaunNoeSzI/AAAAAAAAAZ8/VmHfCohuER4HJ_tcredrTOIU5_s5TJL7ACLcB/s1600/constructor%2Bin%2Bjava.png" width=300>
 
 #### Encapsulation
 
@@ -66,7 +66,7 @@
 
 - Makes testing systems more efficient & easier
 >
-><img src="" width=300>
+><img src="https://www.scientecheasy.com/wp-content/uploads/2018/06/encapsulation-in-java.png" width=300>
 
 #### Friends
 
@@ -74,7 +74,7 @@
 
 - Declared by the class that is granting access, so friend functions are part of the class interface (like methods)
 >
-><img src="" width=300>
+><img src="https://media.geeksforgeeks.org/wp-content/uploads/20220802105339/FriendFunctioninC-660x328.png" width=300>
 
 #### Inheritance
 
@@ -82,7 +82,7 @@
 
 - Weakens encapsulation, so may not be appropriate for applications where higher protection is required
 >
-><img src="" width=300>
+><img src="https://corejava25hours.files.wordpress.com/2023/01/1_rddnpqyoebl_jq3rmet5dg.png" width=300>
 
 #### Instance Variable
 
