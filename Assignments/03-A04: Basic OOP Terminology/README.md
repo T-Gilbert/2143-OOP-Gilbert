@@ -160,7 +160,7 @@
 
 - Only ONE instance of a static member exists, even if you create multiple objects of the class, or if you don't create any
 >
-><img src="https://www.codeash.com/wp-content/uploads/2021/03/20210305_163434-300x300.png" width=200>
+><img src="https://www.codeash.com/wp-content/uploads/2021/03/20210305_163434-300x300.png" width=300>
 
 #### Virtual
 
