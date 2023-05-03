@@ -8,3 +8,4 @@
 |   04  |  P03              | Graphviz  |
 |   05  |  P04              | Roll them Bones!  |
 |   06  |  A04              | Basic OOP Terminology |
+|   07  |  A05              | Designing your Game  |
