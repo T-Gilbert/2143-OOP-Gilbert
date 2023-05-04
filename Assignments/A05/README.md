@@ -1,6 +1,6 @@
 ## Character
 
-<img src="https://lucid.app/lucidchart/30bac953-e384-4cfc-863e-fc3019251ca4/edit?invitationId=inv_9424538a-ea89-4198-80c9-53d10afece91.png" width=400>
+<img src="https://user-images.githubusercontent.com/122938102/236099107-c6553663-4685-4946-a475-aaee21f28101.png" width=400>
 
 ## Diagram
 
